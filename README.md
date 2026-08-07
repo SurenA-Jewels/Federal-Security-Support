@@ -185,7 +185,7 @@ All content is fully sanitized. No internal federal data, proprietary configurat
 
 ## 👔 Professional Context  
 
-**Suren Jewels**  
+**Suren A. Jewels**  
 Cloud & Infrastructure Engineer • Security & Automation Specialist  
 
 This repository showcases sanitized engineering patterns and automation workflows used in enterprise ServiceNow environments.
